@@ -13,4 +13,4 @@ We are working on:
 | Finding Devs  | ✔️ Working on it      |
 
 
-(LIVE TEST)[https://codeswithjames.github.io/searchymerchy/]
+[LIVE TEST](https://codeswithjames.github.io/searchymerchy/)
