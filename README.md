@@ -10,5 +10,5 @@ We are working on:
 | Thing         | Status        | 
 | ------------- |:-------------:|
 | Searching     | ✔️ Working on it  | 
-| Cleaner Html  | ✔️ Working on it      |
+| Finding Devs  | ✔️ Working on it      |
 
